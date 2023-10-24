@@ -27,6 +27,13 @@ The data used for this indepth analysis was provided by an instructor in a Data 
 ## DATA TRANSFORMATION
 After importing the CSV data into Microsoft Excel, the dataset was cleaned to resolve missing values, removing more than 40,000 blanks. To ensure data accuracy, data validation and verification were done thereafter.
 
+## PIVOT TABLE ANALYSIS REPRESENTATION
+Analysis of the Average BMI, Age, Cholestrol, Blood Pressure, Heart Rate and Temperature of Medical Student
+![](Pivot_table1.png)
+
+
+![](Pivot_table2.png)
+
 
 
 
