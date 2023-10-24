@@ -28,3 +28,23 @@ The data used for this indepth analysis was provided by an instructor in a Data 
 After importing the CSV data into Microsoft Excel, the dataset was cleaned to resolve missing values, removing more than 40,000 blanks. To ensure data accuracy, data validation and verification were done thereafter.
 
 
+
+
+## VISUALISATION AND ANALYSIS
+From the various data that were analysed from the Pivot Table, the following visuals were obtained:
+
+![](Age_BMI.png)
+---------------------------------------------------------------------------------------------------
+
+![](Height_weight.png)
+--------------------------------------------------------------------------------------------------
+
+![](Blood_group.png)
+---------------------------------------------------------------------------------------------------
+
+![](Diabetics.png)
+--------------------------------------------------------------------------------------------------
+
+![](Smokers_student.png)
+---------------------------------------------------------------------------------------------------
+
