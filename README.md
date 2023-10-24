@@ -65,7 +65,7 @@ Conclusions and Recommendations
 5.	Healthier Meal Choices: Collaborate with campus cafeterias to offer healthier, diabetes-friendly meal options and provide nutritional information, promoting improved dietary choices for diabetic students.
 6.	Periodic Data Updates: Periodically update the data and conduct follow-up assessments to track changes in smoking and diabetes status, as well as the effectiveness of intervention programs.
 These recommendations aim to enhance the understanding of student health and well-being, provide targeted support, and improve overall health outcomes within the medical student community.
-# ALSO MAKE YOUR FOOD YOUR MEDICINE BEFORE YOUR MEDICINE BECOMES YOUR FOOD BY EATING A GOOD DIET
+# ALSO, MAKE YOUR FOOD YOUR MEDICINE BEFORE YOUR MEDICINE BECOMES YOUR FOOD.
  your health            |        your priority                  |     
 :----------------------:|:----------------------------------------:
 ![](Health.png)    | ![](Health1.png)                 
