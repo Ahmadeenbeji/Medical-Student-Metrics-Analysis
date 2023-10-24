@@ -24,7 +24,7 @@ The task is to create Pivot Tables displaying the following:
 .	Data Visualization
 ## DATA SOURCE
 The data used for this indepth analysis was provided by an instructor in a Data Anlalysis training as part of the requirement in fulfillment of training. The data set encompasses the information ranging from age, weight, BMI, blood pressure, height, smoking habit, blood group, gender, students ID etc of medical students on housemanship at a reknown federal medical centre 'XYZ'.
-## Data TRANSFORMATION
+## DATA TRANSFORMATION
 After importing the CSV data into Microsoft Excel, the dataset was cleaned to resolve missing values, removing more than 40,000 blanks. To ensure data accuracy, data validation and verification were done thereafter.
 
 
