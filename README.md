@@ -28,13 +28,14 @@ The data used for this indepth analysis was provided by an instructor in a Data 
 After importing the CSV data into Microsoft Excel, the dataset was cleaned to resolve missing values, removing more than 40,000 blanks. To ensure data accuracy, data validation and verification were done thereafter.
 
 ## PIVOT TABLE ANALYSIS REPRESENTATION
-Analysis of the Average BMI, Age, Cholestrol, Blood Pressure, Heart Rate and Temperature of Medical Student
+#### Analysis of the Average BMI, Age, Cholestrol, Blood Pressure, Heart Rate and Temperature of Medical Student
 ![](Pivot_table1.png)
 
-
-![](Pivot_table2.png)
-
-
+###  Pivot table analysis for Diabetic, Smoking and (Height and weight)
+**Diabetic**          |        **Smoking**                    |                      **Height and Weight**
+:----------------------:|:----------------------------------------:|:------------------------------------
+![](Pivot_table3.png)    | ![](Pivot_table4.png)                     |![](Pivot_table5.png)
+---------------------------------------------------------------------------------------------------------
 
 
 ## VISUALISATION AND ANALYSIS
@@ -54,4 +55,16 @@ From the various data that were analysed from the Pivot Table, the following vis
 
 ![](Smokers_student.png)
 ---------------------------------------------------------------------------------------------------
+
+# CONCLUSION AND RECOMENDATION
+Conclusions and Recommendations
+1.	Clarify "Unspecified" Category: Investigate and categorize the 20,000 unspecified cases in the dataset to gain a comprehensive understanding of their smoking status, enabling informed decisions and targeted support.
+2.	Determine Smoking Status: Establish a process to reach out to students in the "Unspecified" category to determine their smoking status (smokers, non-smokers, or former smokers) through surveys, interviews, or self-reporting mechanisms.
+3.	Implement Smoking Cessation Programs: With 36,029 identified smokers, there's an opportunity to implement smoking cessation programs within the medical student community. These programs should include counseling, access to nicotine replacement therapy, educational materials, and support groups.
+4.	Diabetes-Specific Health Education: Provide diabetes-specific health education and monitoring programs for the 18,014 diabetic students, emphasizing self-care, regular glucose monitoring, and lifestyle management.
+5.	Healthier Meal Choices: Collaborate with campus cafeterias to offer healthier, diabetes-friendly meal options and provide nutritional information, promoting improved dietary choices for diabetic students.
+6.	Periodic Data Updates: Periodically update the data and conduct follow-up assessments to track changes in smoking and diabetes status, as well as the effectiveness of intervention programs.
+These recommendations aim to enhance the understanding of student health and well-being, provide targeted support, and improve overall health outcomes within the medical student community.
+
+
 
