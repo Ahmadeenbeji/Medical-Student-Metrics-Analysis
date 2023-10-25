@@ -1,5 +1,5 @@
 # Medical-Student-Metrics-Analysis
-![](Medical_image1.jpg)
+![](Medical_image1.png)
 
 # INTRODUCTION
 In this comprehensive analysis of medical student data, I delve into essential demographic and health factors, unearthing valuable insights by constructing pivot tables. These tables include information such as the average age, BMI, temperature, heart rate, blood pressure, and cholesterol levels for both men and women. Additionally, I provide precise statistics on height and weight, a detailed breakdown of blood types, and a thorough overview of the smoking and diabetes status of the students.
