@@ -71,7 +71,7 @@ These recommendations aim to enhance the understanding of student health and wel
 ![](Health.png)    | ![](Health1.png)                 
 ------------------------------------------------------------------
 
-#   THANK YOU
+#   THANK YOU! ⚕️
 
 
 
